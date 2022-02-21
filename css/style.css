@@ -37,6 +37,14 @@ body {
     border-radius: 10px;
 }
 
+h1{
+    font-weight: 200;
+    margin-left: 50px;
+    width: 50%;
+    display: inline-block;
+    color: white;
+}
+
 .clearfix::after {
     content: "";
     clear: both;
